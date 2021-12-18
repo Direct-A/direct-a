@@ -15,17 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Direct-A/direct-a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
-</a>
+<p align="center">
+  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
+  </a>
+</p>
 </br>
+<p align="center">
+  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
+  </a>
+<p>
 </br>
-<a href="https://github.com/Direct-A/direct-a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
-</a>
-</br>
-</br>
-
+<p align="center">
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/Direct-A">
+    <img src="https://badges.pufler.dev/visits/Direct-A/Direct-A?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Direct-A">
+    <img src="https://badges.pufler.dev/years/Direct-A?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Direct-A?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Direct-A?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/Direct-A">
+    <img src="https://badges.pufler.dev/gists/Direct-A?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Direct-A">
+    <img src="https://badges.pufler.dev/commits/monthly/Direct-A?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+</br></br>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -37,7 +58,7 @@ Other       12 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## Blog posts
+## **Blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [全能多系统启动 U 盘制作工具——Ventoy](http://direct-a.github.io/2020/07/14/Ventoy-useage/)
 - [【持续更新】Zotero 插件合集](http://direct-a.github.io/2020/07/10/Zotero-plugins/)
@@ -46,9 +67,26 @@ Other       12 mins         ▓░░░░░░░░░░░░░░░░�
 - [【未完待续】Git使用汇总](http://direct-a.github.io/2020/06/16/git%E4%BD%BF%E7%94%A8%E6%B1%87%E6%80%BB/)
 <!-- BLOG-POST-LIST:END -->
 
-## 正在学习/使用的语言:
-![](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=fff)
 
-![](https://img.shields.io/badge/-Rust-darkgreen?style=flat&logo=Rust&logoColor=fff)
-![](https://img.shields.io/badge/-Perl-darkgreen?style=flat&logo=Perl&logoColor=fff)
+## **Languages and Frameworks**
+
+useing:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r" title="r"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+
+
+learning:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" title="rust"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" alt="perl" title="perl"></code>
+
+
+## **Tools and Environments**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="Latex" title="Latex"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" alt="Archlinux" title="Archlinux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
