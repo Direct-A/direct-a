@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
   <strong>Check out my work below!</strong>
-  <br><br>
+  </br></br>
   <a href="https://github.com/Direct-A">
     <img src="https://badges.pufler.dev/visits/Direct-A/Direct-A?style=flat-square&color=black&logo=github">
   </a>
