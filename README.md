@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
+  </a>
+  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
   </a>
 </p>
-</br>
 <p align="center">
-  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
-  </a>
-<p>
+</p>
+</br>
 </br>
 <p align="center">
   <strong>Check out my work below!</strong>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 </br></br>
 
-📊 **This Week I Spent My Time On:**
+## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 RMarkdown   6 hrs 53 mins   ████████████████████▓░░░░   83.23 % 
