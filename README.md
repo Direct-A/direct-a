@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [全能多系统启动 U 盘制作工具——Ventoy](http://direct-a.github.io/2020/07/14/Ventoy-useage/)
