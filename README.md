@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Direct-A">
     <img src="https://badges.pufler.dev/commits/monthly/Direct-A?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://github.com/Direct-A">
+    <img src="https://www.codewars.com/users/Direct-A/badges/micro?theme=dark">
+  </a>
 </p>
 </br></br>
 
