@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 </br>
-</br>
 <p align="center">
   <strong>Check out my work below!</strong>
   </br></br>
@@ -50,7 +49,6 @@ Here are some ideas to get you started:
     <img src="https://wakatime.com/badge/github/Direct-A/learn_rust.svg">
   </a>
 </p>
-</br>
 
 ## 📊 **This Week I Spent My Time On:**
 
