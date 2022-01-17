@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
   </a>
 </p>
-<p align="center">
-</p>
+</br>
 </br>
 <p align="center">
   <strong>Check out my work below!</strong>
@@ -51,8 +50,8 @@ Here are some ideas to get you started:
     <img src="https://wakatime.com/badge/github/Direct-A/learn_rust.svg">
   </a>
 </p>
-</br></br>
-
+</br>
+</br>
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
