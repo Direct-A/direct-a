@@ -50,8 +50,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 📊 **This Week I Spent My Time On:**
-
+<!-- ## 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 ```text
 Rust       7 hrs 10 mins   █████████████▓░░░░░░░░░░░   55.12 % 
