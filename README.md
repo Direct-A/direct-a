@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="https://wakatime.com/badge/github/Direct-A/learn_rust.svg">
   </a>
 </p>
-
+</br>
 <!-- ## 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 ```text
