@@ -51,8 +51,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 </br>
-</br>
+
 ## 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 Rust       7 hrs 10 mins   █████████████▓░░░░░░░░░░░   55.12 % 
@@ -64,6 +65,7 @@ JSON       7 mins          ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## **Blog posts**
+
 <!-- BLOG-POST-LIST:START -->
 - [全能多系统启动 U 盘制作工具——Ventoy](http://direct-a.github.io/2020/07/14/Ventoy-useage/)
 - [【持续更新】Zotero 插件合集](http://direct-a.github.io/2020/07/10/Zotero-plugins/)
