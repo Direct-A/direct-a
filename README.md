@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 </br>
-</br>
 <p align="center">
   <strong>Check out my work below!</strong>
   </br></br>
