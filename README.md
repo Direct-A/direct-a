@@ -45,8 +45,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/Direct-A">
     <img src="https://badges.pufler.dev/commits/monthly/Direct-A?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Direct-A">
+  <a href="https://www.codewars.com/users/Direct-A">
     <img src="https://www.codewars.com/users/Direct-A/badges/micro?theme=dark">
+  </a>
+  <a href="https://wakatime.com/badge/github/Direct-A/learn_rust">
+    <img src="https://wakatime.com/badge/github/Direct-A/learn_rust.svg">
   </a>
 </p>
 </br></br>
