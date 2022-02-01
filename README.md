@@ -55,9 +55,7 @@ Here are some ideas to get you started:
 <!-- ## 📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
 ```text
-TOML    18 mins         █████████████▓░░░░░░░░░░░   54.89 % 
-R       9 mins          ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-Rust    5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
