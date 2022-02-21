@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
-  </a>
-  <a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
-  </a>
-  <a href="https://wakatime.com/dashboard" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=direct_a&range=last_7_days&layout=compact&show_icons=true&theme=onedark" />
-  </a>
-</p>
+<a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
+  <img src="https://github-readme-stats.vercel.app/api?username=direct-a&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/Direct-A/direct-a" class="rich-diff-level-one">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=direct-a&layout=compact&show_icons=true&theme=onedark" />
+</a>
+<a href="https://wakatime.com/dashboard" class="rich-diff-level-one">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=direct_a&range=last_7_days&layout=compact&show_icons=true&theme=onedark" />
+</a>
 </br>
 <p align="center">
   <strong>Check out my work below!</strong>
