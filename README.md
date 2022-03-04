@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python      4 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Rust        3 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-RMarkdown   3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Bash        2 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-YAML        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Rust        3 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+Python      3 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+Bash        2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+RMarkdown   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+YAML        48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Other       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
