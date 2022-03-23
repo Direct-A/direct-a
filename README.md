@@ -58,12 +58,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown    10 hrs 23 mins  █████████████████████▒░░░   84.68 %
-Stylus       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-R            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+RMarkdown   14 hrs 20 mins  ████████████████████████▓   99.31 %
+R           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
