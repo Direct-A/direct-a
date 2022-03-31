@@ -71,11 +71,11 @@ YAML         14 mins         ▓░░░░░░░░░░░░░░░░
 ## **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [全能多系统启动 U 盘制作工具——Ventoy](http://direct-a.github.io/2020/07/14/Ventoy-useage/)
-- [【持续更新】Zotero 插件合集](http://direct-a.github.io/2020/07/10/Zotero-plugins/)
-- [进一步配置Zotero](http://direct-a.github.io/2020/06/16/Zotero%E7%9A%84%E8%BF%9B%E4%B8%80%E6%AD%A5%E8%AE%BE%E7%BD%AE/)
-- [【持续更新】Git 使用中的问题](http://direct-a.github.io/2020/06/16/git%E4%BD%BF%E7%94%A8%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98/)
-- [【未完待续】Git使用汇总](http://direct-a.github.io/2020/06/16/git%E4%BD%BF%E7%94%A8%E6%B1%87%E6%80%BB/)
+- [【翻译】MSH3 Homology and Potential Recombination Link to SARS-CoV-2 Furin Cleavage Site](https://www.direct-a.cn/2022/Potential-Recombination-Link-to-SARS-CoV-2.html)
+- [Don&#39;t Starve Together 私有服务器搭建](https://www.direct-a.cn/2022/Don-t-Starve-Together-Server.html)
+- [Hexo Next Theme 踩坑](https://www.direct-a.cn/2022/Hexo-troubleshoot.html)
+- [Hexo个人博客私有云服务器部署](https://www.direct-a.cn/2022/Hexo-blog-server-deploy.html)
+- [使用 Adb 操作安卓系统](https://www.direct-a.cn/2022/adb-control-android-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 
