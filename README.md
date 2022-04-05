@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown    7 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.98 %
-Python       5 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-Markdown     2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-R            2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+RMarkdown    7 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.53 %
+Python       7 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.41 %
+R            2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Markdown     48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
