@@ -67,11 +67,11 @@ Other        35 mins         ██░░░░░░░░░░░░░░░
 ## **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [编程范式的发展以及主流编程范式的特点和优缺点](https://www.direct-a.cn/2022/programming-paradigm.html)
 - [【翻译】MSH3 Homology and Potential Recombination Link to SARS-CoV-2 Furin Cleavage Site](https://www.direct-a.cn/2022/Potential-Recombination-Link-to-SARS-CoV-2.html)
 - [Don&#39;t Starve Together 私有服务器搭建](https://www.direct-a.cn/2022/Don-t-Starve-Together-Server.html)
 - [Hexo Next Theme 踩坑](https://www.direct-a.cn/2022/Hexo-troubleshoot.html)
 - [Hexo个人博客私有云服务器部署](https://www.direct-a.cn/2022/Hexo-blog-server-deploy.html)
-- [使用 Adb 操作安卓系统](https://www.direct-a.cn/2022/adb-control-android-phone.html)
 <!-- BLOG-POST-LIST:END -->
 
 
