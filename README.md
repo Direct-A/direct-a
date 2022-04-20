@@ -58,9 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-R            4 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.21 %
-Markdown     1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Other        34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+R            4 hrs 26 mins   █████████████████░░░░░░░░   68.12 %
+Markdown     1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+S            20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
