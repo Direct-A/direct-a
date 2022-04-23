@@ -58,11 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     57 mins         ███████████░░░░░░░░░░░░░░   43.82 %
-Python       55 mins         ██████████▓░░░░░░░░░░░░░░   42.57 %
-Git Config   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Stylus       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Rust         1 hr 17 mins    █████████▓░░░░░░░░░░░░░░░   38.92 %
+Python       55 mins         ███████░░░░░░░░░░░░░░░░░░   27.89 %
+Markdown     48 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Git Config   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Stylus       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
