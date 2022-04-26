@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       2 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.92 %
-Markdown   1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-Python     55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Other      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Rust       2 hrs 9 mins    ██████████████▓░░░░░░░░░░   58.62 %
+Python     55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+Markdown   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
