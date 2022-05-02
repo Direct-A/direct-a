@@ -71,11 +71,11 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 ## **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [【一周生活细节】2022-04-03](https://www.direct-a.cn/2022/2022-04-03.html)
+- [【一周生活细节】2022-04_04](https://www.direct-a.cn/2022/2022-04-04.html)
+- [【一周生活细节】2022-04_03](https://www.direct-a.cn/2022/2022-04-03.html)
 - [编程范式的发展以及主流编程范式的特点和优缺点](https://www.direct-a.cn/2022/programming-paradigm.html)
 - [【翻译】MSH3 Homology and Potential Recombination Link to SARS-CoV-2 Furin Cleavage Site](https://www.direct-a.cn/2022/Potential-Recombination-Link-to-SARS-CoV-2.html)
 - [Don&#39;t Starve Together 私有服务器搭建](https://www.direct-a.cn/2022/Don-t-Starve-Together-Server.html)
-- [Hexo Next Theme 踩坑](https://www.direct-a.cn/2022/Hexo-troubleshoot.html)
 <!-- BLOG-POST-LIST:END -->
 
 
