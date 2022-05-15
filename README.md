@@ -58,12 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       37 mins         ███████████░░░░░░░░░░░░░░   43.46 %
-Bash       30 mins         ████████▓░░░░░░░░░░░░░░░░   35.03 %
-YAML       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Stylus     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Bash       30 mins         █████████████████▒░░░░░░░   69.16 %
+Rust       12 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
