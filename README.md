@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash       30 mins         █████████████████▒░░░░░░░   69.16 %
-Rust       12 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+R      26 mins         ██████████████████░░░░░░░   71.86 %
+Rust   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+S      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
