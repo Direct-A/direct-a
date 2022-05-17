@@ -58,9 +58,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-R      26 mins         ██████████████████░░░░░░░   71.86 %
-Rust   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-S      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Markdown     49 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+JavaScript   47 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 %
+R            26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Other        21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
 ```
 
 <!--END_SECTION:waka-->
