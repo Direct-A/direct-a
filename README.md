@@ -58,11 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 42 mins    █████████░░░░░░░░░░░░░░░░   35.91 %
-Markdown     57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-JavaScript   47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-RMarkdown    32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+RMarkdown    2 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
+Markdown     2 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Bash         1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+JSON         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+YAML         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Stylus       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
