@@ -71,11 +71,11 @@ JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░
 ## **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [【一周生活细节】2022-05_01](https://www.direct-a.cn/2022/2022-05-01)
-- [【一周生活细节】2022-04_04](https://www.direct-a.cn/2022/2022-04-04)
-- [【一周生活细节】2022-04_03](https://www.direct-a.cn/2022/2022-04-03)
-- [编程范式的发展以及主流编程范式的特点和优缺点](https://www.direct-a.cn/2022/programming-paradigm)
-- [【翻译】MSH3 Homology and Potential Recombination Link to SARS-CoV-2 Furin Cleavage Site](https://www.direct-a.cn/2022/Potential-Recombination-Link-to-SARS-CoV-2)
+- [【一周生活细节】2022-05_01](https://www.direct-a.cn/2022/2022-05-01/)
+- [【一周生活细节】2022-04_04](https://www.direct-a.cn/2022/2022-04-04/)
+- [【一周生活细节】2022-04_03](https://www.direct-a.cn/2022/2022-04-03/)
+- [编程范式的发展以及主流编程范式的特点和优缺点](https://www.direct-a.cn/2022/programming-paradigm/)
+- [【翻译】MSH3 Homology and Potential Recombination Link to SARS-CoV-2 Furin Cleavage Site](https://www.direct-a.cn/2022/Potential-Recombination-Link-to-SARS-CoV-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
