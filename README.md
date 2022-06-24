@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 mins          █████████████████████████   100.00 %
+TypeScript   3 mins          ██████████████▓░░░░░░░░░░   58.31 %
+Git Config   1 min           ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+RMarkdown    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
