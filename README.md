@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         19 mins         ███████████████░░░░░░░░░░   60.12 %
-Rust         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-TypeScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Vue.js       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-RMarkdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JSON         19 mins         ████████████████▓░░░░░░░░   66.55 %
+Rust         6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Vue.js       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+RMarkdown    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
