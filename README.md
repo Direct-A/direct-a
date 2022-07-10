@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown   4 hrs 40 mins   █████████████████████████   100.00 %
+RMarkdown   4 hrs 10 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
