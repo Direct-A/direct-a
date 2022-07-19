@@ -58,12 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown    4 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.32 %
-Python       2 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-R            1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+RMarkdown   2 hrs           ██████████████▒░░░░░░░░░░   57.96 %
+R           1 hr 22 mins    ██████████░░░░░░░░░░░░░░░   39.80 %
+JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
