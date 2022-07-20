@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown   2 hrs           ██████████████▒░░░░░░░░░░   57.96 %
-R           1 hr 22 mins    ██████████░░░░░░░░░░░░░░░   39.80 %
-JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+R           1 hr 22 mins    ██████████████████▒░░░░░░   73.63 %
+RMarkdown   26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+JSON        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
