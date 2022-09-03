@@ -58,11 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML        10 mins         █████████████████░░░░░░░░   67.81 %
-RMarkdown   3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-R           0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash        22 mins         █████████████▒░░░░░░░░░░░   53.09 %
+YAML        10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+Other       4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
 ```
 
 <!--END_SECTION:waka-->
