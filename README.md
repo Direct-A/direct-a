@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash        22 mins         █████████████▒░░░░░░░░░░░   53.09 %
-YAML        10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Other       4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Bash    22 mins         ████████████████████▓░░░░   82.61 %
+Other   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
 ```
 
 <!--END_SECTION:waka-->
