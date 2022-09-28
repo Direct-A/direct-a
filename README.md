@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSV   9 mins          █████████████████████████   100.00 %
+CSV    9 mins          ██████████████████▒░░░░░░   72.79 %
+Bash   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
 ```
 
 <!--END_SECTION:waka-->
