@@ -58,11 +58,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text             5 hrs 21 mins   █████████████▓░░░░░░░░░░░   54.54 %
-Python           4 hrs 18 mins   ███████████░░░░░░░░░░░░░░   43.88 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSV file         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Text             5 hrs 21 mins   ███████████████░░░░░░░░░░   60.59 %
+Python           3 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.01 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
