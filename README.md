@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown   49 mins         ████████████▒░░░░░░░░░░░░   48.95 %
-Text        27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-Other       20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
