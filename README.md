@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     35 mins         ████████████████████████▓   98.85 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-CSV file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   2 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
