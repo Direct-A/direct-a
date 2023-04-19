@@ -58,10 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TOML       23 mins         ██████████████████▓░░░░░░   74.57 %
-Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Python     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TOML       23 mins         ████████████████████░░░░░   80.17 %
+Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
