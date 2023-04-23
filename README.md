@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TOML       23 mins         ████████████████████░░░░░   80.17 %
-Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
