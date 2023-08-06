@@ -58,8 +58,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   24 mins         ██████████████████████▒░░   88.71 %
-R      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+TOML         24 mins         █████████░░░░░░░░░░░░░░░░   35.39 %
+Other        22 mins         ████████▒░░░░░░░░░░░░░░░░   32.67 %
+JavaScript   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+R            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
