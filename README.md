@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 4 mins     ████████████▓░░░░░░░░░░░░   51.24 %
-YAML         36 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 %
-Other        22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-PythonStub   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       58 mins         ████████████▒░░░░░░░░░░░░   48.82 %
+YAML         36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 %
+Other        22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+PythonStub   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
