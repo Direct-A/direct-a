@@ -58,9 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       41 mins         █████████████▓░░░░░░░░░░░   54.30 %
-GDScript   31 mins         ██████████▒░░░░░░░░░░░░░░   41.20 %
-Other      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
