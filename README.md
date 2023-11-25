@@ -58,10 +58,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       44 mins         ████████████████████▒░░░░   80.95 %
-Other      6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-CSS        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other      6 mins          █████████████████████████   99.94 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
