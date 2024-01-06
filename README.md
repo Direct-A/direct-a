@@ -58,10 +58,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Text        1 hr 24 mins    ████████████████████░░░░░   79.80 %
-Batchfile   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Other       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Text        14 mins         █████████████████████████   99.53 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
